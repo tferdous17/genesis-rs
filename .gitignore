@@ -1,0 +1,9 @@
+/target/
+/src/main.rs
+
+Cargo.lock
+
+# IDE
+.idea
+.project
+.vscode
